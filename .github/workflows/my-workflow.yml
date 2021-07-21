@@ -13,6 +13,4 @@ jobs:
     - name: hello-action
       uses: ./.github/actions/hello-world
       with:
-        first-greeting: Yaho~
-        second-greeting: Mohaji
-        third-greeting: Life
+        third-greeting: Coway Life
